@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<Enum uuid="c9844a8d-8e08-49e3-95ce-6a4054df8ef2">
+	<Enum uuid="3f597995-cef4-4098-bf5d-f78adb5aa9a4">
 		<InternalInfo>
 			<xr:GeneratedType name="EnumRef.ТипПользователя" category="Ref">
-				<xr:TypeId>3174b6aa-4841-449c-9483-025178fb916a</xr:TypeId>
-				<xr:ValueId>e4d72517-e6bd-45b7-a299-b1a9c121439f</xr:ValueId>
+				<xr:TypeId>7762efb0-a931-4195-b555-1cdca6816f80</xr:TypeId>
+				<xr:ValueId>bcc4881b-9c43-4b84-b1e7-47ecc4539bec</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumManager.ТипПользователя" category="Manager">
-				<xr:TypeId>e22e02d7-660d-4ae9-863c-4254f2ab4e9e</xr:TypeId>
-				<xr:ValueId>0aa1d36f-c5ac-4f7e-a038-e589b72f9e95</xr:ValueId>
+				<xr:TypeId>7b35b92e-1cb2-45df-ab6b-ed97e0ff7ea6</xr:TypeId>
+				<xr:ValueId>b0873e39-b5cb-43d4-9d86-83d5b661e379</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumList.ТипПользователя" category="List">
-				<xr:TypeId>c46cc80e-c793-41b8-afad-b6b7f27b7eb3</xr:TypeId>
-				<xr:ValueId>aa0501de-7556-4433-8a38-e0e8740f404e</xr:ValueId>
+				<xr:TypeId>35f9b30d-22aa-4165-9243-ab6aa10df3dc</xr:TypeId>
+				<xr:ValueId>2c38d337-2c7a-4941-af03-311079d1a67e</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -38,25 +38,37 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="8763e2c3-7c77-4b0d-9bcc-304d1eb6f0b6">
+			<EnumValue uuid="3fa12cfe-4ad9-4f3a-9169-21030fcdc381">
 				<Properties>
-					<Name>Продавец</Name>
+					<Name>Менеджер</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Продавец</v8:content>
+							<v8:content>Менеджер</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="bc980b12-fbf7-48fd-8f7c-ef3fa91889f0">
+			<EnumValue uuid="4217e4cb-e1b6-4fa4-8e8a-ccf89067041d">
 				<Properties>
 					<Name>Покупатель</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Покупатель</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="60a9dd20-f9d9-4712-94f7-6c900e9748d1">
+				<Properties>
+					<Name>Продавец</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Продавец</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

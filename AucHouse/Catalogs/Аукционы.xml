@@ -1,69 +1,77 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<Document uuid="ca7a137a-b474-483c-ac4a-e71e22db1694">
+	<Catalog uuid="4bc61ee8-8d7d-4ba7-809d-6435e18c9cb6">
 		<InternalInfo>
-			<xr:GeneratedType name="DocumentObject.ПриемОплаты" category="Object">
-				<xr:TypeId>e87f8c29-182c-464d-a87a-aacf8e8c7109</xr:TypeId>
-				<xr:ValueId>d7d867ed-7caa-46d2-be2c-092ea28d48eb</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Аукционы" category="Object">
+				<xr:TypeId>71951398-a6d9-4ef9-8c2a-417f350f2136</xr:TypeId>
+				<xr:ValueId>be4fed85-1838-4b3d-a504-541f9f2da8ec</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentRef.ПриемОплаты" category="Ref">
-				<xr:TypeId>35f6abf2-713a-45a9-b568-c2744dfdae58</xr:TypeId>
-				<xr:ValueId>5949d11d-b10f-4436-b819-05474d02afe7</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Аукционы" category="Ref">
+				<xr:TypeId>b3effb28-d6d9-44d0-928a-8b48ef959979</xr:TypeId>
+				<xr:ValueId>504d14fd-3b41-400b-9beb-67d2b923875c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentSelection.ПриемОплаты" category="Selection">
-				<xr:TypeId>5b7ca03a-eeea-49a6-b8e3-4a4e2e3d21c7</xr:TypeId>
-				<xr:ValueId>f44cf728-daff-43cd-82e4-150abebf217b</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Аукционы" category="Selection">
+				<xr:TypeId>dd970df9-fd80-4568-8cbd-89055088cd09</xr:TypeId>
+				<xr:ValueId>2379ecb1-8044-49f8-909d-5655ed542449</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentList.ПриемОплаты" category="List">
-				<xr:TypeId>4f1bbede-a2cf-47b4-8d7e-b7dd7ad31370</xr:TypeId>
-				<xr:ValueId>116ab112-e604-4bc4-a279-54521f81be0a</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Аукционы" category="List">
+				<xr:TypeId>990693a7-ba6c-46c5-83f8-cf4cb628e202</xr:TypeId>
+				<xr:ValueId>11147589-44ee-4c5a-8fc0-243fbe93501a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DocumentManager.ПриемОплаты" category="Manager">
-				<xr:TypeId>46985fb9-8e0e-42c1-8b97-6342d9472a52</xr:TypeId>
-				<xr:ValueId>3c302b2b-d5eb-4436-95d1-a0434568b2af</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Аукционы" category="Manager">
+				<xr:TypeId>4b68a2db-577f-44ab-9739-1e9fa2346284</xr:TypeId>
+				<xr:ValueId>7ddda06b-b0c9-4d70-9aba-5d8b5641c30a</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ПриемОплаты</Name>
+			<Name>Аукционы</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Прием оплаты</v8:content>
+					<v8:content>Аукционы</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
+			<Hierarchical>false</Hierarchical>
+			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
+			<LimitLevelCount>false</LimitLevelCount>
+			<LevelCount>2</LevelCount>
+			<FoldersOnTop>true</FoldersOnTop>
 			<UseStandardCommands>true</UseStandardCommands>
-			<Numerator/>
-			<NumberType>String</NumberType>
-			<NumberLength>9</NumberLength>
-			<NumberAllowedLength>Variable</NumberAllowedLength>
-			<NumberPeriodicity>Nonperiodical</NumberPeriodicity>
+			<Owners/>
+			<SubordinationUse>ToItems</SubordinationUse>
+			<CodeLength>9</CodeLength>
+			<DescriptionLength>25</DescriptionLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Variable</CodeAllowedLength>
+			<CodeSeries>WholeCatalog</CodeSeries>
 			<CheckUnique>true</CheckUnique>
 			<Autonumbering>true</Autonumbering>
+			<DefaultPresentation>AsDescription</DefaultPresentation>
 			<Characteristics/>
-			<BasedOn/>
+			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
+			<EditType>InDialog</EditType>
+			<QuickChoice>false</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Document.ПриемОплаты.StandardAttribute.Number</xr:Field>
+				<xr:Field>Catalog.Аукционы.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Аукционы.StandardAttribute.Code</xr:Field>
 			</InputByString>
-			<CreateOnInput>Use</CreateOnInput>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm>Document.ПриемОплаты.Form.ФормаДокумента</DefaultObjectForm>
-			<DefaultListForm/>
+			<DefaultObjectForm/>
+			<DefaultFolderForm/>
+			<DefaultListForm>Catalog.Аукционы.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
+			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
+			<AuxiliaryFolderForm/>
 			<AuxiliaryListForm/>
 			<AuxiliaryChoiceForm/>
-			<Posting>Allow</Posting>
-			<RealTimePosting>Allow</RealTimePosting>
-			<RegisterRecordsDeletion>AutoDeleteOnUnpost</RegisterRecordsDeletion>
-			<RegisterRecordsWritingOnPost>WriteSelected</RegisterRecordsWritingOnPost>
-			<SequenceFilling>AutoFill</SequenceFilling>
-			<RegisterRecords/>
-			<PostInPrivilegedMode>true</PostInPrivilegedMode>
-			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
+			<AuxiliaryFolderChoiceForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<BasedOn/>
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>Use</FullTextSearch>
@@ -72,10 +80,11 @@
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
+			<CreateOnInput>Use</CreateOnInput>
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<Attribute uuid="96d3358a-e6bd-4e8a-b548-60f9d3e75ca9">
+			<Attribute uuid="d2804369-2468-4d01-893b-f7d889793063">
 				<Properties>
 					<Name>Ответственный</Name>
 					<Synonym>
@@ -109,22 +118,26 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="4d3300eb-f494-450b-8e62-68fbd008749b">
+			<Attribute uuid="98fbcf26-26d0-41b9-8692-2a0c5bfb5179">
 				<Properties>
-					<Name>Аукцион</Name>
+					<Name>ДатаНачала</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Аукцион</v8:content>
+							<v8:content>Дата начала</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Лоты</v8:Type>
+						<v8:Type>xs:dateTime</v8:Type>
+						<v8:DateQualifiers>
+							<v8:DateFractions>Date</v8:DateFractions>
+						</v8:DateQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -147,22 +160,26 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="1c99cbb4-2714-4264-9776-66e238282273">
+			<Attribute uuid="f1a697b1-96d8-4d4f-8f43-7305e76484d3">
 				<Properties>
-					<Name>ТипОплаты</Name>
+					<Name>ДатаКонца</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Тип оплаты</v8:content>
+							<v8:content>Дата конца</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ТипОплаты</v8:Type>
+						<v8:Type>xs:dateTime</v8:Type>
+						<v8:DateQualifiers>
+							<v8:DateFractions>Date</v8:DateFractions>
+						</v8:DateQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -185,22 +202,23 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="c5cba8df-085f-431e-ac71-173527ea1279">
+			<Attribute uuid="df85bb3f-f2e6-4aab-aeb7-65dd7f5c79a7">
 				<Properties>
-					<Name>Плательщик</Name>
+					<Name>СтатусАукциона</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Плательщик</v8:content>
+							<v8:content>Статус аукциона</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
+						<v8:Type>cfg:EnumRef.СтатусыАукциона</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -223,92 +241,12 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Attribute>
-			<Attribute uuid="85b59d24-ee24-44ba-a9c1-64922bbf3a6a">
-				<Properties>
-					<Name>Лот</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Лот</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>cfg:CatalogRef.Лоты</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-				</Properties>
-			</Attribute>
-			<Attribute uuid="f879935e-c313-4008-bcad-9a708e2b13f1">
-				<Properties>
-					<Name>Сумма</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Сумма</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>xs:decimal</v8:Type>
-						<v8:NumberQualifiers>
-							<v8:Digits>10</v8:Digits>
-							<v8:FractionDigits>0</v8:FractionDigits>
-							<v8:AllowedSign>Any</v8:AllowedSign>
-						</v8:NumberQualifiers>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip/>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>DontCheck</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-				</Properties>
-			</Attribute>
-			<Form>ФормаДокумента</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
-	</Document>
+	</Catalog>
 </MetaDataObject>

@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<Enum uuid="5539f8c2-8f73-4a7d-a515-263fa4921863">
+	<Enum uuid="5c2f2755-89a7-484d-b16b-a50d1dd13b09">
 		<InternalInfo>
 			<xr:GeneratedType name="EnumRef.ТипОплаты" category="Ref">
-				<xr:TypeId>108c108c-4add-4d6c-b549-cdbc1f8dfecd</xr:TypeId>
-				<xr:ValueId>d82b9c36-2d68-4851-86e1-41c4371291cb</xr:ValueId>
+				<xr:TypeId>329aecc3-fa94-472d-84d6-0a884050f152</xr:TypeId>
+				<xr:ValueId>a3904744-2526-4f79-84ff-4ebdc3fe194e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumManager.ТипОплаты" category="Manager">
-				<xr:TypeId>8ca70fe0-adbf-4e93-9558-b624db7c6284</xr:TypeId>
-				<xr:ValueId>9d5232e5-1bae-4ca4-b3f2-14e1259374e9</xr:ValueId>
+				<xr:TypeId>239d4163-b977-4a7c-83e9-1b198bc2ec9b</xr:TypeId>
+				<xr:ValueId>a9870d8c-3ace-4313-bc42-6a1518430377</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumList.ТипОплаты" category="List">
-				<xr:TypeId>a3ea9a03-52a8-44e2-9bb7-dce97d80f2bf</xr:TypeId>
-				<xr:ValueId>194f428f-5c28-43ba-a914-b0509b2097aa</xr:ValueId>
+				<xr:TypeId>9a760f06-195e-4090-b5b3-f3d9a4dbc998</xr:TypeId>
+				<xr:ValueId>2e78c8b3-6abb-44a6-b076-85421abf998c</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -38,19 +38,19 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="04cfc087-0851-4c36-a1e2-242eae255e15">
+			<EnumValue uuid="ce4ebb6e-2c64-4c81-b1a8-1e597e6b2347">
 				<Properties>
-					<Name>ОплатаУчастия</Name>
+					<Name>ОплатаЗаУчастие</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Оплата участия</v8:content>
+							<v8:content>Оплата за участие</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="e734e79a-54f3-4d1f-b312-ff75f005c2c5">
+			<EnumValue uuid="7d23dc20-2c75-4311-9607-ff6fe50cca7e">
 				<Properties>
 					<Name>ОплатаПокупки</Name>
 					<Synonym>

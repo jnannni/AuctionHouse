@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<InformationRegister uuid="dc83f4e5-bd6a-4547-9373-6f2a7522f371">
+	<InformationRegister uuid="ce57b75c-d883-47a0-a172-faeb2b8cb281">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.ИсторияСтатусовАукциона" category="Record">
-				<xr:TypeId>618f9ceb-6755-46d4-a064-df6e7998dda2</xr:TypeId>
-				<xr:ValueId>6cf3db49-30a4-42ff-8ad3-486d3950b90e</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.СтавкиНаЛоты" category="Record">
+				<xr:TypeId>75aefd47-cd0f-45ee-9aa0-863e93ba386e</xr:TypeId>
+				<xr:ValueId>a7bd1e1c-58f2-4537-b9b9-81daec9e079e</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.ИсторияСтатусовАукциона" category="Manager">
-				<xr:TypeId>d6310791-9895-46d7-a5f3-f78c86a095ce</xr:TypeId>
-				<xr:ValueId>5977a42d-72a6-4a0b-8ddb-f722c4f819bd</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.СтавкиНаЛоты" category="Manager">
+				<xr:TypeId>b6421f68-bd3a-4d7d-baef-e09e9da4d390</xr:TypeId>
+				<xr:ValueId>151573b3-14aa-4a9d-9ecd-b3e36a29675a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.ИсторияСтатусовАукциона" category="Selection">
-				<xr:TypeId>506fd75b-c118-4b14-91c6-3905f332e699</xr:TypeId>
-				<xr:ValueId>8a1ba889-381c-4171-8fd6-65d868a0f6ae</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.СтавкиНаЛоты" category="Selection">
+				<xr:TypeId>6f6468a3-114d-4686-8058-60220917b520</xr:TypeId>
+				<xr:ValueId>f7c67ed6-1a85-4b44-ae0d-d5ab93d9239f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.ИсторияСтатусовАукциона" category="List">
-				<xr:TypeId>83464c55-386d-4a61-a4b0-5992011a75ca</xr:TypeId>
-				<xr:ValueId>4518d1e5-26cf-4586-bc57-7faaebcfd1e2</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.СтавкиНаЛоты" category="List">
+				<xr:TypeId>7f1a0baf-b9e6-4fe9-9a30-9fe4f2184081</xr:TypeId>
+				<xr:ValueId>011ec026-c530-480d-a66e-49b7a431c7ab</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.ИсторияСтатусовАукциона" category="RecordSet">
-				<xr:TypeId>30328858-2733-4016-9d23-a465cd1b4496</xr:TypeId>
-				<xr:ValueId>592d10d2-280d-42e2-a117-0f44a969ed06</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.СтавкиНаЛоты" category="RecordSet">
+				<xr:TypeId>32053bb0-f0bc-4273-b89a-b2d9dd1ab21f</xr:TypeId>
+				<xr:ValueId>4a16e0b4-0598-464c-b843-97fccf9c965b</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.ИсторияСтатусовАукциона" category="RecordKey">
-				<xr:TypeId>23a87562-cd0d-4f92-a5fc-4f4724b19da5</xr:TypeId>
-				<xr:ValueId>55220d55-d2f9-410a-9f21-78e21c5e4c89</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.СтавкиНаЛоты" category="RecordKey">
+				<xr:TypeId>99f51fc5-0c48-411a-9004-2082e415cd47</xr:TypeId>
+				<xr:ValueId>5018a642-fc23-4f60-8b6c-704058e0f669</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.ИсторияСтатусовАукциона" category="RecordManager">
-				<xr:TypeId>caa36c8b-5dee-4f59-9715-7d156e6e27e0</xr:TypeId>
-				<xr:ValueId>3114cba6-7e8f-4616-aefc-18e5e56ee862</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.СтавкиНаЛоты" category="RecordManager">
+				<xr:TypeId>b68ef685-f6b3-455a-8355-583107483f64</xr:TypeId>
+				<xr:ValueId>eec86e73-81ef-4909-ab54-7b0da25d8d56</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ИсторияСтатусовАукциона</Name>
+			<Name>СтавкиНаЛоты</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>История статусов аукциона</v8:content>
+					<v8:content>Ставки на лоты</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -46,9 +46,9 @@
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<InformationRegisterPeriodicity>Second</InformationRegisterPeriodicity>
 			<WriteMode>Independent</WriteMode>
-			<MainFilterOnPeriod>false</MainFilterOnPeriod>
+			<MainFilterOnPeriod>true</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
@@ -61,18 +61,23 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="750b240d-d33c-45ee-9583-5d328fb306a3">
+			<Resource uuid="094e2ba3-b6ae-4808-82b2-c823cb41ddcc">
 				<Properties>
-					<Name>Статус</Name>
+					<Name>Ставка</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Статус</v8:content>
+							<v8:content>Ставка</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.СтатусыАукциона</v8:Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>10</v8:Digits>
+							<v8:FractionDigits>0</v8:FractionDigits>
+							<v8:AllowedSign>Nonnegative</v8:AllowedSign>
+						</v8:NumberQualifiers>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -99,18 +104,59 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="0b315953-3158-45ef-b4aa-680c0d69964c">
+			<Dimension uuid="d2893394-81ba-4121-abbd-0b42d8e76f0a">
 				<Properties>
-					<Name>Аукцион</Name>
+					<Name>Пользователь</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Аукцион</v8:content>
+							<v8:content>Пользователь</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Аукционы</v8:Type>
+						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="6f8895dc-2626-4c0d-83f0-e71028f6e42c">
+				<Properties>
+					<Name>Лот</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Лот</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Лоты</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<InformationRegister uuid="1db755bc-b79a-460b-bf9b-879b52f45012">
+	<InformationRegister uuid="9640ec42-1b2c-45ee-92e7-b9cb15334707">
 		<InternalInfo>
 			<xr:GeneratedType name="InformationRegisterRecord.ИсторияСтатусовЛота" category="Record">
-				<xr:TypeId>c7f8dab3-b1b8-4420-a246-33fe7918be38</xr:TypeId>
-				<xr:ValueId>9f40efda-5433-47f5-b956-e77eb1d48308</xr:ValueId>
+				<xr:TypeId>dd2239b2-f4a1-4b3e-838e-89a563564997</xr:TypeId>
+				<xr:ValueId>c09757e3-64a4-45f8-8ec2-412525c56195</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterManager.ИсторияСтатусовЛота" category="Manager">
-				<xr:TypeId>20a00d87-b07e-4e36-b61a-9f79c3b47554</xr:TypeId>
-				<xr:ValueId>b6a446d8-8e55-47ce-acb0-df7f10b44694</xr:ValueId>
+				<xr:TypeId>fdb93b51-26ec-4849-a255-faf8de4100c4</xr:TypeId>
+				<xr:ValueId>ef60229b-2a17-484a-8d78-ed98b332df74</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterSelection.ИсторияСтатусовЛота" category="Selection">
-				<xr:TypeId>9c5a505d-f184-4be9-8eea-fac0d4c3e225</xr:TypeId>
-				<xr:ValueId>8f8ab885-4ba3-48df-82a3-642cb6c562eb</xr:ValueId>
+				<xr:TypeId>09173226-61ea-46a1-886b-c005156b2938</xr:TypeId>
+				<xr:ValueId>0a6993ee-4fc8-4997-bafd-903cf229cd1d</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterList.ИсторияСтатусовЛота" category="List">
-				<xr:TypeId>cd131567-d952-4096-8dd9-606e3d290cbd</xr:TypeId>
-				<xr:ValueId>8533007c-7bf7-44e7-870a-fc410421c82d</xr:ValueId>
+				<xr:TypeId>2a8a4634-ccdf-4cee-9d24-68b7c843069c</xr:TypeId>
+				<xr:ValueId>1c1d654d-6294-4fbf-92ae-c07018a2267f</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordSet.ИсторияСтатусовЛота" category="RecordSet">
-				<xr:TypeId>fc9dbe3b-2bfd-43a8-86a4-9e2a499f33d9</xr:TypeId>
-				<xr:ValueId>5a8d0ca4-47b0-4777-aa5c-1ca0f7b52da0</xr:ValueId>
+				<xr:TypeId>3b0960fe-165d-4232-b501-6ef5725d6d70</xr:TypeId>
+				<xr:ValueId>99e2dfbf-8007-4ee8-9c1d-09620258c707</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordKey.ИсторияСтатусовЛота" category="RecordKey">
-				<xr:TypeId>c8eb6725-e62e-44d6-b23a-a524556ae86d</xr:TypeId>
-				<xr:ValueId>6cbc30a6-5432-4078-bb13-39c889f111b6</xr:ValueId>
+				<xr:TypeId>3d4b6f27-45e0-4eee-bce2-528aaea077b3</xr:TypeId>
+				<xr:ValueId>84058f6e-f722-4c22-8d9d-0c640b9533f5</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordManager.ИсторияСтатусовЛота" category="RecordManager">
-				<xr:TypeId>6548236b-0cbf-413d-b3e5-3238157592fb</xr:TypeId>
-				<xr:ValueId>2af44ced-3d09-47eb-b920-d681924ec25e</xr:ValueId>
+				<xr:TypeId>bbb55959-bfd8-4644-b85f-7db876c71d47</xr:TypeId>
+				<xr:ValueId>1783bb0f-08fa-4d0a-bce0-b76fe4186b53</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -47,7 +47,7 @@
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
 			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
-			<WriteMode>RecorderSubordinate</WriteMode>
+			<WriteMode>Independent</WriteMode>
 			<MainFilterOnPeriod>false</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
@@ -61,7 +61,7 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="17bf5f85-a827-430f-97d1-c862da419af7">
+			<Resource uuid="89575eb7-ea08-4897-9829-af0ab3f4f5bc">
 				<Properties>
 					<Name>Статус</Name>
 					<Synonym>
@@ -99,18 +99,18 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="5891a112-c17d-4996-8a1a-a7217e7fd4de">
+			<Dimension uuid="022db738-1c9d-4d6b-8147-80af87f7bd41">
 				<Properties>
-					<Name>Лоты</Name>
+					<Name>Лот</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Лоты</v8:content>
+							<v8:content>Лот</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:DocumentRef.Лоты</v8:Type>
+						<v8:Type>cfg:CatalogRef.Лоты</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

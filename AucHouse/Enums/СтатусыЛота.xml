@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<Enum uuid="05d11d31-4451-45fc-a1c8-1aa3d06f6a11">
+	<Enum uuid="8bdeebcf-d021-4c54-a070-d5b056a74417">
 		<InternalInfo>
 			<xr:GeneratedType name="EnumRef.СтатусыЛота" category="Ref">
-				<xr:TypeId>e24a8b3e-0902-465e-b608-679fbd5751d2</xr:TypeId>
-				<xr:ValueId>540db314-0c2e-4423-8402-eba8842d39bd</xr:ValueId>
+				<xr:TypeId>8a1b9d61-8040-4cee-b5f7-f47eba01acd0</xr:TypeId>
+				<xr:ValueId>d8929735-f02b-475e-be20-35ddab0c70a8</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumManager.СтатусыЛота" category="Manager">
-				<xr:TypeId>158b1647-c205-4a77-8848-08f3fb750e2d</xr:TypeId>
-				<xr:ValueId>68c75839-da56-4db8-b27f-bcff5b02b70f</xr:ValueId>
+				<xr:TypeId>4d1b1425-acb8-4668-b8b1-fdc717b50a78</xr:TypeId>
+				<xr:ValueId>8301ab65-898d-4d91-80cc-e0be2c68477a</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="EnumList.СтатусыЛота" category="List">
-				<xr:TypeId>e4e7da1c-4312-435c-81e6-2d9f2ac3550c</xr:TypeId>
-				<xr:ValueId>2f91fbb5-4ca5-439e-9adb-916ad067bca1</xr:ValueId>
+				<xr:TypeId>ef3e67d8-3531-4520-b19e-71fe06545d6c</xr:TypeId>
+				<xr:ValueId>ca096001-1438-4a58-bc7d-2a275cf47f18</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -38,7 +38,7 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
 		<ChildObjects>
-			<EnumValue uuid="49bd4f6a-b401-4c0d-9473-3b0cc4b531d5">
+			<EnumValue uuid="312e6e6d-c55f-4e80-a29b-fccbfe3d802f">
 				<Properties>
 					<Name>Черновик</Name>
 					<Synonym>
@@ -50,7 +50,7 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="461bf9a6-dcdb-48eb-93d1-0ef874fe4772">
+			<EnumValue uuid="a18cbeb1-45e5-4cb4-944b-2ddfa02648db">
 				<Properties>
 					<Name>ГотовКМодерации</Name>
 					<Synonym>
@@ -62,7 +62,7 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="571cd24c-a594-4748-a90a-6275b7a5dd2d">
+			<EnumValue uuid="b836ba56-04fe-49af-8328-28ba69a2baf7">
 				<Properties>
 					<Name>Утвержден</Name>
 					<Synonym>
@@ -74,7 +74,7 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="8f7c48ec-68d4-4224-828f-67fae36d152a">
+			<EnumValue uuid="275523a5-c08a-4afc-a434-963b39fd08f3">
 				<Properties>
 					<Name>Отклонен</Name>
 					<Synonym>
@@ -86,7 +86,7 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="2cd4d2d4-a6b7-4b62-bd56-f8757bb9936d">
+			<EnumValue uuid="f83621db-b617-46fe-ae42-b56514ce6de0">
 				<Properties>
 					<Name>Добавлен</Name>
 					<Synonym>

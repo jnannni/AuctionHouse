@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<InformationRegister uuid="dc83f4e5-bd6a-4547-9373-6f2a7522f371">
+	<InformationRegister uuid="e8df915d-b191-49e0-a574-d86e8bebf777">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.ИсторияСтатусовАукциона" category="Record">
-				<xr:TypeId>618f9ceb-6755-46d4-a064-df6e7998dda2</xr:TypeId>
-				<xr:ValueId>6cf3db49-30a4-42ff-8ad3-486d3950b90e</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ИзбранныеЛоты" category="Record">
+				<xr:TypeId>4d845d38-f1a1-4767-a201-467e932e238b</xr:TypeId>
+				<xr:ValueId>dff05c6d-8801-4e28-a5c1-ad77c94c5e48</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.ИсторияСтатусовАукциона" category="Manager">
-				<xr:TypeId>d6310791-9895-46d7-a5f3-f78c86a095ce</xr:TypeId>
-				<xr:ValueId>5977a42d-72a6-4a0b-8ddb-f722c4f819bd</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ИзбранныеЛоты" category="Manager">
+				<xr:TypeId>89ef3a42-1517-4cd7-8f53-a8b77d6a5fcb</xr:TypeId>
+				<xr:ValueId>d37c3328-b90a-490b-a836-864be3d4683a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.ИсторияСтатусовАукциона" category="Selection">
-				<xr:TypeId>506fd75b-c118-4b14-91c6-3905f332e699</xr:TypeId>
-				<xr:ValueId>8a1ba889-381c-4171-8fd6-65d868a0f6ae</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ИзбранныеЛоты" category="Selection">
+				<xr:TypeId>946c1450-056a-4314-a5da-00a49e3e5908</xr:TypeId>
+				<xr:ValueId>2f8aa567-9b75-4679-be77-5090ea4e923d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.ИсторияСтатусовАукциона" category="List">
-				<xr:TypeId>83464c55-386d-4a61-a4b0-5992011a75ca</xr:TypeId>
-				<xr:ValueId>4518d1e5-26cf-4586-bc57-7faaebcfd1e2</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ИзбранныеЛоты" category="List">
+				<xr:TypeId>a227f86b-7a8f-493c-bf0c-1cc1c1884118</xr:TypeId>
+				<xr:ValueId>ff9b57ba-caa0-4b74-ad58-04be7a3c9cc2</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.ИсторияСтатусовАукциона" category="RecordSet">
-				<xr:TypeId>30328858-2733-4016-9d23-a465cd1b4496</xr:TypeId>
-				<xr:ValueId>592d10d2-280d-42e2-a117-0f44a969ed06</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ИзбранныеЛоты" category="RecordSet">
+				<xr:TypeId>f2f895f6-94c1-49a6-9fb9-06d079787c6b</xr:TypeId>
+				<xr:ValueId>3c1a14cb-879f-4274-bf93-03631ea40484</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.ИсторияСтатусовАукциона" category="RecordKey">
-				<xr:TypeId>23a87562-cd0d-4f92-a5fc-4f4724b19da5</xr:TypeId>
-				<xr:ValueId>55220d55-d2f9-410a-9f21-78e21c5e4c89</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ИзбранныеЛоты" category="RecordKey">
+				<xr:TypeId>f6561169-a126-4658-aa53-64e7552fec04</xr:TypeId>
+				<xr:ValueId>45919b51-6ad0-42a8-9e42-98cf446e95fb</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.ИсторияСтатусовАукциона" category="RecordManager">
-				<xr:TypeId>caa36c8b-5dee-4f59-9715-7d156e6e27e0</xr:TypeId>
-				<xr:ValueId>3114cba6-7e8f-4616-aefc-18e5e56ee862</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ИзбранныеЛоты" category="RecordManager">
+				<xr:TypeId>6ea9d172-27d6-42b6-8578-819c3b5b73c1</xr:TypeId>
+				<xr:ValueId>53d8e486-f564-4f74-b72e-d3af7e08d78b</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ИсторияСтатусовАукциона</Name>
+			<Name>ИзбранныеЛоты</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>История статусов аукциона</v8:content>
+					<v8:content>Избранные лоты</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -61,18 +61,18 @@
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="750b240d-d33c-45ee-9583-5d328fb306a3">
+			<Dimension uuid="3e6c7d23-4b7b-41c8-9282-9ce4bfe1009e">
 				<Properties>
-					<Name>Статус</Name>
+					<Name>Пользователь</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Статус</v8:content>
+							<v8:content>Пользователь</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.СтатусыАукциона</v8:Type>
+						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -95,22 +95,25 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
-			</Resource>
-			<Dimension uuid="0b315953-3158-45ef-b4aa-680c0d69964c">
+			</Dimension>
+			<Dimension uuid="93047a1b-79a9-4fa6-8df8-358c9b5c856e">
 				<Properties>
-					<Name>Аукцион</Name>
+					<Name>Лот</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Аукцион</v8:content>
+							<v8:content>Лот</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Аукционы</v8:Type>
+						<v8:Type>cfg:CatalogRef.Лоты</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
