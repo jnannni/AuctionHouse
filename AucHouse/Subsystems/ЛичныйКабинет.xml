@@ -15,9 +15,10 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">93edb739-ce44-462f-a03c-a978dff8945f</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Пользователи</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.РегистрацияПользователя</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.СтавкиНаЛоты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.БонуснаяПрограмма</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

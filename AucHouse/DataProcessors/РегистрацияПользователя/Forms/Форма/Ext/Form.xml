@@ -95,6 +95,7 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
+			<FillCheck>ShowError</FillCheck>
 		</Attribute>
 		<Attribute name="ЭлектроннаяПочта" id="3">
 			<Title>
@@ -110,6 +111,7 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
+			<FillCheck>ShowError</FillCheck>
 		</Attribute>
 		<Attribute name="Телефон" id="4">
 			<Title>
@@ -125,6 +127,7 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
+			<FillCheck>ShowError</FillCheck>
 		</Attribute>
 		<Attribute name="Адрес" id="5">
 			<Title>
@@ -140,6 +143,7 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
+			<FillCheck>ShowError</FillCheck>
 		</Attribute>
 		<Attribute name="ТипПользователя" id="6">
 			<Title>
@@ -151,6 +155,7 @@
 			<Type>
 				<v8:Type>cfg:EnumRef.ТипПользователя</v8:Type>
 			</Type>
+			<FillCheck>ShowError</FillCheck>
 		</Attribute>
 		<Attribute name="Пароль" id="7">
 			<Title>

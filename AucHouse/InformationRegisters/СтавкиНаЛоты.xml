@@ -104,7 +104,7 @@
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="d2893394-81ba-4121-abbd-0b42d8e76f0a">
+			<Resource uuid="a025b518-9f9f-403a-a7f7-421b4d0e677e">
 				<Properties>
 					<Name>Пользователь</Name>
 					<Synonym>
@@ -138,13 +138,10 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Master>false</Master>
-					<MainFilter>true</MainFilter>
-					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
-			</Dimension>
+			</Resource>
 			<Dimension uuid="6f8895dc-2626-4c0d-83f0-e71028f6e42c">
 				<Properties>
 					<Name>Лот</Name>
